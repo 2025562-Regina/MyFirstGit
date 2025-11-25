@@ -17,6 +17,7 @@ public class MyFirstGit {
         // TODO code application logic here
         
         System.out.println("Hello Folks");
+        System.out.println("Blah");
     }
     
 }
